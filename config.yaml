@@ -1,0 +1,26 @@
+arquivos_entrada:
+  ativos: "ATIVOS"
+  admissoes: "ADMISS"
+  desligados: "DESLIGADOS"
+  ferias: "FÉRIAS"
+  afastamentos: "AFASTAMENTOS"
+  aprendiz: "APRENDIZ"
+  estagio: "EST"
+  exterior: "EXTERIOR"
+  dias_uteis: "Base dias uteis"
+  sind_valor: "Base sindicato x valor"
+
+sheets:
+  ativos: "ATIVOS"
+  admissoes: "Planilha1"
+  desligados: "DESLIGADOS"
+  ferias: "Planilha1"
+  afastamentos: "Planilha1"
+  aprendiz: "Planilha1"
+  estagio: "Planilha1"
+  exterior: "Planilha1"
+  dias_uteis: "Planilha1"
+  sind_valor: "Planilha1"
+
+regras:
+  pos15_regra: "integral"
